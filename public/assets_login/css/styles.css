@@ -1,0 +1,196 @@
+
+
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+
+@font-face{
+	src: url(../fonts/OpenSans-Regular.ttf);
+	font-family: opensans;
+}
+
+@font-face{
+	src: url(../fonts/DancingScript-VariableFont_wght.ttf);
+	font-family: dancingscript;
+}
+
+@font-face{
+	src: url(../fonts/AmaticSC-Regular.ttf);
+	font-family: amatic;
+}
+
+@font-face{
+	src: url(../fonts/SpecialElite-Regular.ttf);
+	font-family: specialelite;
+}
+
+@font-face{
+	src: url(../fonts/Yellowtail-Regular.ttf);
+	font-family: yellowtail;
+}
+
+@font-face{
+	src: url(../fonts/Segoe-UI.ttf);
+	font-family: segoe;
+}
+
+@font-face{
+	src: url(../fonts/Segoe-UI-Bold.ttf);
+	font-family: segoebold;
+}
+
+body{
+
+	font-family: opensans;
+	font-size: 16px;
+	margin:0px;
+	padding:0px;
+	word-break: break-word;
+	word-wrap: break-word;
+}
+
+		
+.class_1{
+
+	background-color: rgb(255, 255, 255);
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	
+}
+
+.class_2{
+
+	height: 350px;
+	 background-color: rgb(255, 255, 255);
+	color: rgb(255, 255, 255);
+	background-image: url("	../images/side-view-radio-microphone-with-copy-space_23-2148808737.jpg"	);
+	background-size: 100%;
+	background-position-y: -200px;
+	
+}
+
+.class_3{
+
+	height: 100%;
+	padding: 10px;
+	background-color: rgba(0, 0, 0, 0.44);
+	color: rgb(255, 255, 255);
+	display: flex;
+	
+}
+
+.class_4{
+
+	padding: 10px;
+	color: rgb(255, 255, 255);
+	max-width: 600px;
+	margin: auto;
+	text-align: center;
+	
+}
+
+.class_5{
+
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 40px;
+	font-family: tahoma;
+	
+}
+
+.class_6{
+
+	color: rgb(255, 126, 38);
+	font-size: 16px;
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
+	
+}
+
+.class_7{
+
+	padding: 10px;
+	color: rgb(63, 63, 63);
+	max-width: 600px;
+	margin: auto;
+	display: inline-block;
+	width: 100%;
+	text-align: left;
+	
+}
+
+.class_8{
+
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 30px;
+	
+}
+
+.class_9{
+
+	margin-top:4px;
+	margin-bottom: 4px;
+	padding: 4px;
+	align-items: center;
+	
+}
+
+.class_10{
+
+	margin: .5rem;
+	margin-left:0px;
+	display: inline-block;
+	
+}
+
+.class_11{
+
+	display: block;
+	width: 100%;
+	padding: 0.7em;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5;
+	color: rgb(33, 37, 41);
+	background-color: rgb(255, 255, 255);
+	background-clip: padding-box;
+	border: 1px solid rgb(206, 212, 218);
+	appearance: none;
+	border-radius: 0.375rem;
+	transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+	
+}
+
+.class_12{
+
+	font-size: 16px;
+	padding: 1em;
+	border: medium none;
+	color: rgb(255, 255, 255);
+	background-color: rgb(255, 126, 38);
+	border-radius: 6px;
+	margin: 0.25rem 0.125rem;
+	cursor: pointer;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	
+}
+
+@media screen and (max-width: 1200px){
+
+}
+
+@media screen and (max-width: 992px){
+
+}
+
+@media screen and (max-width: 768px){
+
+}
+
+@media screen and (max-width: 576px){
+
+}
